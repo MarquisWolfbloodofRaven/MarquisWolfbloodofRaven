@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarquisWolfbloodofRaven 
 - 👀 I’m interested in Software Project and Development.
 - 🌱 I’m currently learning Software Engeneering 
-- 💞️ I’m looking to collaborate on full stack or fornt/back end projects
+- 💞️ I’m looking to collaborate on full stack or front/back end projects
 - 📫 How to reach me you can contact me by my portfolio https://marquiswolfbloodofraven.github.io/Portfolio-V2/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: The best King of all times was Balduin IV.
